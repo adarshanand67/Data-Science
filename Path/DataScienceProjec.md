@@ -1,4 +1,4 @@
-# Data Science Project
+# Data Science Project Cycle
 
 Project planning
 Data collection
