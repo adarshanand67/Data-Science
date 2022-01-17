@@ -42,7 +42,7 @@
 
     Advanced SQL - TODO
 
-## CodingBasics - End to End Projects (Medium sized projects)
+## codebasics - End to End Projects (Medium sized projects)
 
     Real Estate Price Prediction (8 videos)
 
