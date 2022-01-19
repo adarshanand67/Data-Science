@@ -20,7 +20,7 @@
 
     Deep Learning Playlist - Keras + Micro projects
 
-    ML Kart - Github Projects (with Prahlad,Srajan)
+    ML Kart - Github Projects (with Prahlad,Srajan,Neetu,Nandini)
 
     Deploying ML models (ML + Cloud)
 
@@ -30,13 +30,13 @@
 
     Data Visualization - ✅
 
-    Feature Engineering - TODO
-
     Intro to Machine Learning - TODO
 
     Intro to Deep Learning - TODO
 
     Computer Vision - TODO
+
+    (Optional ones)
 
     Intro to SQL - TODO
 
