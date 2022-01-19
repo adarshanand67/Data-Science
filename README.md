@@ -16,9 +16,9 @@
 
     Machine Learning Pipelines
 
-    Deep Learning Playlist - Tensorflow
+    Deep Learning Playlist - Tensorflow + Micro projects
 
-    Deep Learning Playlist - Keras
+    Deep Learning Playlist - Keras + Micro projects
 
     ML Kart - Github Projects (with Prahlad,Srajan)
 
