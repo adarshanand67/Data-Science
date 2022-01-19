@@ -2,14 +2,14 @@
 
 ## Krish Naik
 
-    Complete Machine Learning Playlist (20 to 23 videos) - Done
+    Complete Machine Learning Playlist (20 to 23 videos) - ✅
 
-    Statistics playlist (Theory) - Done
+    Statistics playlist (Theory) - ✅
 
-    Feature engineering (whole playlist) - Done
+    Feature engineering (whole playlist) - ✅
 
     Live Stream Feature engineering (7 videos) - In Progress
-
+    
     Continue Complete Machine Learning Playlist (24 to all)
 
     Live Stream End to End Projects (Top 10 videos)
@@ -26,9 +26,9 @@
 
 ## Kaggle Micro Courses (Follow in order - Dont Go for Certificates)
 
-    Data Cleaning - Done
+    Data Cleaning - ✅
 
-    Data Visualization - TODO
+    Data Visualization - ✅
 
     Feature Engineering - TODO
 
