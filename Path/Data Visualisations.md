@@ -5,5 +5,4 @@
   Seaborn ✅
 - Interactive
   Plotly
-  Bokeh
   Altair

@@ -1,4 +1,0 @@
-https://towardsdatascience.com/6-simple-tips-for-prettier-and-customised-plots-in-seaborn-python-22f02ecc2393
-
-Cufflinks  - Interactive plots in Jupyter Notebook
-

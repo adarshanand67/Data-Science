@@ -8,11 +8,9 @@
 
     Feature engineering (whole playlist) - ✅
 
-    Live Stream Feature engineering (7 videos) - In Progress
-    
-    Continue Complete Machine Learning Playlist (24 to all)
+    Live Stream Feature engineering (7 videos) - ❗❗❗
 
-    Live Stream End to End Projects (Top 10 videos)
+    [IMP] Continue "Complete Machine Learning Playlist" (24 to all)
 
     Machine Learning Pipelines
 
@@ -36,14 +34,14 @@
 
     Computer Vision - TODO
 
-    (Optional ones)
+## Further fields to go ??
 
-    Intro to SQL - TODO
+    NLP with NLTK, Gensim, Spacy ?
 
-    Advanced SQL - TODO
+    OpenCV/Computer vision ?
 
-## codebasics - End to End Projects (Medium sized projects)
+    Tensorflow ?
 
-    Real Estate Price Prediction (8 videos)
+    Pytorch/GAN ?
 
-    Image Classification (8 videos)
+    Keras?
