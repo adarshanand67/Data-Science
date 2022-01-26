@@ -8,7 +8,7 @@
 
     Feature engineering (whole playlist) - ✅
 
-    Live Stream Feature engineering (7 videos) - ❗❗❗
+    Live Stream Feature engineering (7 videos) - Ongoing ❗❗❗
 
     [IMP] Continue "Complete Machine Learning Playlist" (24 to all)
 
