@@ -1,4 +1,6 @@
-# Regression based Algo
+# Machine learning algorithms and their implementation
+
+## Regression based Algo
 
 - Random Forest
 - Passive Aggressive
@@ -12,4 +14,10 @@
 - Decision Tree
 - Polynomial
 
-#
+## Classification based Algo
+
+- Logistic Regression
+- Naive Bayes
+- K-Nearest Neighbors
+- Decision Tree
+- Support Vector Machines
