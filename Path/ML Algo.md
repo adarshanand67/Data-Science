@@ -7,7 +7,7 @@
 - LassoLars
 - Bayesian Ridge
 - Ridge
-- Lasso 
+- Lasso
 - SGD
 - Linear
 - Elastic Net
