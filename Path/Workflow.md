@@ -12,8 +12,9 @@
 - Why not 100% master pandas before moving on to advanced stuffs?
 - Have a sense of calm while writing code, Dont go down a rabbit hole -> Haste makes waste
 
-## Data science workflow
+## Data science workflow (in a new project)
 
 msno - Find missing values in dataset
-pandas-profiling - Generate a report of the dataset
-AutoViz - Auto EDA
+pandas-profiling - Generate auto report of the dataset
+AutoViz - Auto EDA (minimal)
+klib - +/- correlelation graphs, Feature correlation plots wrt target

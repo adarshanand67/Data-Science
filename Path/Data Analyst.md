@@ -27,3 +27,10 @@
 - Problem solving
   DSA (Data Structures and Algorithms)
   `Leetcode`
+
+- Plotting libraries
+  matplotlib
+  seaborn
+  plotly
+  bokeh
+  altair
