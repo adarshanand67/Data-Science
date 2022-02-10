@@ -20,6 +20,8 @@ GIF of problem statement
 One Quotation - related to data science
 Markdown Templates - for styling options
 Styling dataframes
+Display videos HTML 
+Render Maths Equations
 
 ### EDA
 
@@ -27,3 +29,6 @@ msno matrix - Find missing values in dataset
 pandas-profiling - Generate auto EDA report of the dataset(minimal=True)
 AutoViz - Auto EDA (minimal=True)
 klib - +/- correlelation graphs, Feature correlation plots wrt target
+
+### ML
+Save models into pickle files
