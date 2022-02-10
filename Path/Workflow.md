@@ -14,7 +14,16 @@
 
 ## Data science workflow (in a new project)
 
-msno - Find missing values in dataset
-pandas-profiling - Generate auto report of the dataset
-AutoViz - Auto EDA (minimal)
+### Styling
+
+GIF of problem statement
+One Quotation - related to data science
+Markdown Templates - for styling options
+Styling dataframes
+
+### EDA
+
+msno matrix - Find missing values in dataset
+pandas-profiling - Generate auto EDA report of the dataset(minimal=True)
+AutoViz - Auto EDA (minimal=True)
 klib - +/- correlelation graphs, Feature correlation plots wrt target
