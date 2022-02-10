@@ -20,8 +20,12 @@ GIF of problem statement
 One Quotation - related to data science
 Markdown Templates - for styling options
 Styling dataframes
-Display videos HTML 
+Display videos HTML
 Render Maths Equations
+
+### Data Cleaning
+
+klib - klib.data_cleaning() Cleaning data
 
 ### EDA
 
@@ -31,4 +35,9 @@ AutoViz - Auto EDA (minimal=True)
 klib - +/- correlelation graphs, Feature correlation plots wrt target
 
 ### ML
+
 Save models into pickle files
+
+### End
+
+add references - towardsdatascience , medium blogs

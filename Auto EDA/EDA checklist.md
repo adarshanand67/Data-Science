@@ -1,4 +1,4 @@
-#### Explorative Data Analysis
+# Explorative Data Analysis
 
 Get data into a usable format!  
 Find out if the following predictive modeling phase will be successful!
@@ -40,7 +40,7 @@ Find out if the following predictive modeling phase will be successful!
   - Scale to [0,1] or normalize (mean=0, std=1)
   - One-hot encoding(1 for yes 0 for no), Label Encoding (0,1,2,3)
   - Create log-transformed versions for highly skewed variables
-  - Create binned versions for variables (example is to bin values for Age into     categories such as 20-39, 40-59, and 60-79)
+  - Create binned versions for variables (example is to bin values for Age into categories such as 20-39, 40-59, and 60-79)
   - Combine categories for highly skewed categorical variables
   - Create sum/difference/product/quotient of variables
   - Create polynomial features
