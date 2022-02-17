@@ -16,12 +16,12 @@
 
 ### Styling
 
-GIF of problem statement
-One Quotation - related to data science
+Eye catchy GIF of problem statement
+One Quotation - related to data science/problem statement
 Markdown Templates - for styling options
 Styling dataframes
 Display videos HTML
-Render Maths Equations
+Render Maths EquationsP
 
 ### Data Cleaning
 
@@ -40,4 +40,4 @@ Save models into pickle files
 
 ### End
 
-add references - towardsdatascience , medium blogs
+add references,bibilography - towardsdatascience , medium blogs
