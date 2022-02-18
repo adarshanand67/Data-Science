@@ -1,4 +1,4 @@
-# List of skills for Data analyst
+# List of skills for Data analyst :bird:
 
 - `Excel`
   Data Filters
