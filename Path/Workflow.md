@@ -1,43 +1,35 @@
 # Workflow of data science project
 
-## Conference tips
+## Data preparation
 
-- Create src.py and include all the python functions
-- Import all the functions to a notebook
-- Avoid bad practices and function naming conventions
-- Write production ready code
-- Unit testing
-- Code readability, quality , and maintainability
-- Dont worry about latest deep learning techniques, instead focus on writing basic stable code
-- Why not 100% master pandas before moving on to advanced stuffs?
-- Have a sense of calm while writing code, Dont go down a rabbit hole -> Haste makes waste
+Wikipedia library (Wiki tables->dataframe)
 
-## Data science workflow (in a new project)
-
-### Styling
-
-Eye catchy GIF of problem statement
-One Quotation - related to data science/problem statement
-Markdown Templates - for styling options
-Styling dataframes
-Display videos HTML
-Render Maths EquationsP
-
-### Data Cleaning
 
 klib - klib.data_cleaning() Cleaning data
 
-### EDA
+## EDA
 
 msno matrix - Find missing values in dataset
 pandas-profiling - Generate auto EDA report of the dataset(minimal=True)
 AutoViz - Auto EDA (minimal=True)
-klib - +/- correlelation graphs, Feature correlation plots wrt target
+klib +/- correlelation graphs, correlation plots (wrt target)
 
-### ML
+## ML
 
 Save models into pickle files
 
-### End
+## Styling
 
-add references,bibilography - towardsdatascience , medium blogs
+Eye catchy GIF of problem statement
+One Quotation - related to data science/problem statement
+Markdown Templates - for styling options
+Markdown alerts
+Styling dataframes
+Display videos HTML
+Render Maths Equations (%%render)
+
+## Data Cleaning
+
+## End
+
+References,bibilography - towardsdatascience , medium blogs
