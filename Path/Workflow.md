@@ -12,6 +12,7 @@ Manual data cleaning
 
 ## EDA
 
+msno - missing values analysis
 pandas-profiling - Generate auto EDA report of the dataset(minimal=True)
 AutoViz - Auto EDA (set minimal=True)
 klib +/- correlelation graphs, correlation plots (wrt target)

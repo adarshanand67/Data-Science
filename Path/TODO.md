@@ -24,13 +24,9 @@
 
     Advanced Machine Learning - TODO
 
-    Intro to Deep Learning - TODO
-
-    Computer Vision - TODO
-
 ## SHALA
 
-    Shala course IITB
+    Shala course IITB 
 
 ## TODO
 

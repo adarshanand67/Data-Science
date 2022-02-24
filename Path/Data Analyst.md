@@ -11,10 +11,8 @@
   Budgeting Charts Excel
 - `SQL`
 - Visualization tool (`Power BI` / `Tableau`)
-  Learn Power BI (`Microsoft`)
 - Communication and presentation skills
 - Domain knowledge
-- `Python` / R programming (Python preferred)
 - `Math` and `statistics` knowledge
   Mean, Median, Mode, Standard Deviation
   Variance, Covariance, Correlation
@@ -27,10 +25,3 @@
 - Problem solving
   DSA (Data Structures and Algorithms)
   `Leetcode`
-
-- Plotting libraries
-  matplotlib
-  seaborn
-  plotly
-  bokeh
-  altair
