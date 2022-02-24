@@ -4,33 +4,33 @@
 
 ## Data preparation
 
-Wikipedia library (Wiki tables -> dataframe)
+Scrape Tabular data any site (pd.read_html)
 
 ## Data cleaning
 
-klib - klib.data_cleaning() Cleaning data
+Manual data cleaning
 
 ## EDA
 
-msno matrix - Find missing values in dataset
 pandas-profiling - Generate auto EDA report of the dataset(minimal=True)
-AutoViz - Auto EDA (minimal=True)
+AutoViz - Auto EDA (set minimal=True)
 klib +/- correlelation graphs, correlation plots (wrt target)
 
 ## ML
 
-Save models into pickle files
+Pycaret (Genrate all possible models,compare them)
+Flaml (Genrate all possible models,compare them)
 
 ## Styling
 
 Eye catchy GIF of problem statement
 One Quotation - related to data science/problem statement
-Markdown Templates - for styling options
+> Markdown Templates - for styling options
 Markdown alerts
 Styling dataframes
-Display videos HTML
+Embed videos HTML
 Render Maths Equations (%%render)
 
 ## End
 
-References,bibilography - towardsdatascience , medium blogs
+References, Bibilography -> towardsdatascience , medium blogs
