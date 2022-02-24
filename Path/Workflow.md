@@ -1,9 +1,12 @@
 # Workflow of data science project
 
+---
+
 ## Data preparation
 
-Wikipedia library (Wiki tables->dataframe)
+Wikipedia library (Wiki tables -> dataframe)
 
+## Data cleaning
 
 klib - klib.data_cleaning() Cleaning data
 
@@ -27,8 +30,6 @@ Markdown alerts
 Styling dataframes
 Display videos HTML
 Render Maths Equations (%%render)
-
-## Data Cleaning
 
 ## End
 
