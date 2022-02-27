@@ -1,0 +1,16 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "~\\.virtualenvs\\Data-Science-5NW1kgzy\\Scripts\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "C:\\Program Files (x86)\\Python310-32\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "~\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}

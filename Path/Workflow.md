@@ -2,9 +2,9 @@
 
 ---
 
-## Data preparation
+## Data preparation/Scraping
 
-Scrape Tabular data any site (pd.read_html)
+Scrape Tabular data any site (pd.read_html(url))
 
 ## Data cleaning
 
@@ -13,14 +13,13 @@ Manual data cleaning
 ## EDA
 
 msno - missing values analysis
-pandas-profiling - Generate auto EDA report of the dataset(minimal=True)
-AutoViz - Auto EDA (set minimal=True)
-klib +/- correlelation graphs, correlation plots (wrt target)
+pandas-profiling - Generate auto EDA report (minimal=True)
+AutoViz - All plots (set minimal=True)
+klib (+/- correlelation graphs), correlation plots (wrt target)
 
 ## ML
 
-Pycaret (Genrate all possible models,compare them)
-Flaml (Genrate all possible models,compare them)
+Pycaret/Flaml (Genrate all possible models,compare them)
 
 ## Styling
 
