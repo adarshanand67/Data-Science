@@ -19,7 +19,7 @@ klib (+/- correlelation graphs), correlation plots (wrt target)
 
 ## ML
 
-Pycaret/Flaml (Genrate all possible models,compare them)
+Pycaret (Automate everything)
 
 ## Styling
 
