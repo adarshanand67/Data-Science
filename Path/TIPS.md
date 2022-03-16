@@ -11,6 +11,7 @@
 - Dont worry about latest deep learning techniques, instead focus on writing basic stable code
 - Why not 100% master pandas before moving on to advanced stuffs?
 - Have a sense of calm while writing code, Dont go down a rabbit hole -> Haste makes waste
+- ! Write insights after drawing the graphs visually
 
 ## Linkedin tips
 
@@ -20,3 +21,5 @@ Don't be a perfectionist:
 • Start small and iterate.
 • Know when it's 'good enough' to stop.
 • Prioritize the feedback; you just can't make everyone happy.
+
+

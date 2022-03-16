@@ -21,6 +21,7 @@ klib (+/- correlelation graphs), correlation plots (wrt target)
 
 Pycaret (Automate everything)
 
+
 ## Styling
 
 Eye catchy GIF of problem statement
@@ -34,3 +35,7 @@ Render Maths Equations (%%render)
 ## End
 
 References, Bibilography -> towardsdatascience , medium blogs
+
+## StoryTelling with Data
+
+Make a business story with data
