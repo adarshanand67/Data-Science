@@ -39,3 +39,6 @@
     GridSearchCV
 
 Update all Pip packages - pip3 list -o | grep -v -i warning | cut -f1 -d' ' | tr " " "\n" | awk '{if(NR>=3)print}' | cut -d' ' -f1 | xargs -n1 pip3 install -U
+
+Fold All (Ctrl+K+0)
+Unfold All (Ctrl+K+J)

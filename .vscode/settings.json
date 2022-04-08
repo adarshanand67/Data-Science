@@ -12,5 +12,20 @@
             "path": "~\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
             "type": "pythonEnvironment"
         }
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "adarshSQLConnection",
+            "database": "myDatabase",
+            "username": "root",
+            "password": ""
+        }
     ]
 }
